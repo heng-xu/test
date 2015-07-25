@@ -70,6 +70,7 @@
 // console.log(this);
 
 var global = this;
+var test = "test";
 global.name = "heng";
 var tom = {
 	name : "Tom",
